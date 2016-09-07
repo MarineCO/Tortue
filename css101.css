@@ -1,0 +1,22 @@
+body {
+	background-color: #B0B0B0;
+}
+header h1 {
+	border: blue solid 3px;
+	color: blue;
+	text-align: center;
+	font-size: 35px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.red {
+	color: red;
+	text-align: center;
+	font-size: 25px;
+}
+img {
+	width: 100%;
+}
+p {
+	font-size: 22px;
+}
